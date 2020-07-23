@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": false,
+    "python.pythonPath": "C:\\Users\\asus\\anaconda3\\envs\\flask_web\\python.exe"
+}
